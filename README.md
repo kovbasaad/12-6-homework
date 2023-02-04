@@ -14,5 +14,6 @@
 
 Выполните конфигурацию master-slave репликации, примером можно пользоваться из лекции.
 
-*Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
+![1-1](https://github.com/kovbasaad/12-6-homework/blob/main/img/1-1.JPG)
+![1-2](https://github.com/kovbasaad/12-6-homework/blob/main/img/1-2.JPG)
 
